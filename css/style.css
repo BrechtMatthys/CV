@@ -32,5 +32,6 @@ ul{
 	list-style: hiragana-iroha;
 }
 ul li{
-	font-size: 0.8rem;
+	font-size: 0.9rem;
+	line-height: 50px;
 }
