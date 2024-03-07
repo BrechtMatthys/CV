@@ -4,27 +4,28 @@ body{
 	font-family: 'Prata', serif;
 	font-weight: 300;
 	height: 100vh;
-}
-body div{
-	position: absolute;
-  left: 50%;
-  top: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-	background-color: white;
-	width: 35%;
-	height: 95%;
+	
+  font-family: bd-supper, sans-serif;
+	font-size: 1.7rem;
 
-  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 h1{
-	font-size: 2rem;
+	font-size: 5rem;
 	margin-top: 2.5rem;
 	text-align: center;
+	color: #2f2d30;
 }
 h2{
 	margin-top: 8px;
 	text-align: center;
+	color: #ef5024;
+}
+div{
+	text-align: center;
+}
+h3{
+	padding-top: 80px;
+	color: #3e7ec1;
 }
 ul{
 	margin: 2rem auto;
